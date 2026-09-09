@@ -7,7 +7,7 @@ about:
   latestVersion: "0.7.1"
   latestRelease: "0.7.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:50:59Z
+  collectedAt: 2026-09-09T20:21:32Z
 timeline:
   created: 2015-02-01
   lastCommit: 2026-06-10
@@ -86,7 +86,7 @@ total:
   commit: 1297
 ---
 path: /home/runner/.x-repo/github.com/jmacdonald/amp
-collectedAt: 2026-09-09T05:51:00Z
+collectedAt: 2026-09-09T20:21:34Z
 loc:
   Rust:
     code: 12808
