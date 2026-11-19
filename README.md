@@ -24,16 +24,6 @@ Total: **13,911** lines of code across **112** files in the top 5 languages.
 | Nix | 65 | 15 | 16 | 2 |
 | Toml | 53 | 2 | 7 | 1 |
 
-## OpenSSF Scorecard
-
-Overall score: **2.5 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (0/10) — Found 0/27 approved changesets -- score normalized to 0
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
-
 ## Source
 
 - **Upstream**: <https://github.com/jmacdonald/amp>
@@ -48,7 +38,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,144 · **Forks**: 110 · **Open issues**: 220 · **Contributors**: 23
+- **Stars**: 4,145 · **Forks**: 110 · **Open issues**: 220 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -58,12 +48,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-18 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-20 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 360d | 2025-11-21 | 0 | 5 | 1 | 2 | 1 | 27 |
-| last720d | 2024-11-26 | 0 | 6 | 1 | 2 | 3 | 43 |
+| 30d | 2026-10-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 360d | 2025-11-24 | 0 | 5 | 1 | 2 | 1 | 27 |
+| last720d | 2024-11-29 | 0 | 6 | 1 | 2 | 3 | 43 |
 
 ## Release assets
 
@@ -81,4 +71,4 @@ Install metadata for amp lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:18:55Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:16:37Z._
